@@ -1,0 +1,11 @@
+{
+  "name": "redux-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/erikadonato/redux-example.git",
+  "author": "Erika Donato <erikaadonato@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
